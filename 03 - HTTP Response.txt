@@ -1,0 +1,2 @@
+Setelah request dikirim oleh clinet, server akan membalas dgn HTTP response
+HTTP Response biasanya data yg diminta oleh client dalam HTTP Request
